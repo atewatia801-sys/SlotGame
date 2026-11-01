@@ -17,3 +17,8 @@
 *.svd
 
 .DS_Store
+[Bb]uild/
+[Bb]uilds/
+MemoryCaptures/
+Recordings/
+.vs/
